@@ -2,7 +2,7 @@ var channels_ids = []
 var totalWidth
 var channel_id
 
-
+alert(因为百度的api接口不稳定，点完下面的没反应，多点几个频道就好了)
 
 function render(callback){
 	var _this = this
